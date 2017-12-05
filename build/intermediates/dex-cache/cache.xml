@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lidongxu/.android/build-cache/9fbb3773a6d2f247e38e1b6a94fbf3b2f6a6307a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/lidongxu/github/MusicocoAudioClip/app/build/intermediates/pre-dexed/debug/classes_9d50b7830c0195e8343f200cc2a395ad1fffaf01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lidongxu/dev_software/android-sdk-macosx/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/lidongxu/github/MusicocoAudioClip/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_d554dc8db74d14c951b806e91d4d29b85e5c2be7.jar" />
+    </item>
+
+</items>
